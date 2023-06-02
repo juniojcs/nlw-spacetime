@@ -1,5 +1,5 @@
 <p>
-<img src=".github/capa.jpeg" alt="simigão da zuera" width="100%"/>
+<img src="capa.jpeg" alt="simigão da zuera" width="100%"/>
 </p>
 
 ## Projeto 
